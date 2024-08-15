@@ -21,3 +21,31 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+.eslintcache
+
+# TypeScript
+*.tsbuildinfo
+
+# Build output
+/dist
+/.next
+/out
+
+# Cache files
+/.cache
+
+# Mac OS
+.DS_Store
+# Log files
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+# Environment variables
+.env
+.env.*
+# Bundler output
+/.rpt2_cache/
